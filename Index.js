@@ -31,7 +31,7 @@ function calcular(){
         Result.innerText = "= " + Resultado    
      }else{
         Result.style = "color: red";
-        Result.innerText = "ERROR PAYASO"
+        Result.innerText = "ERROR"
     }
 
         
